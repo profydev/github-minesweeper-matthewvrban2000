@@ -1,7 +1,7 @@
 {
   "commands": [
     "clear A8",
-    "flag C3",
+    "clear C3",
     "flag D2",
     "clear H8",
     "flag F1",
@@ -23,8 +23,8 @@
     "clear F7",
     "clear F8 ",
     "clear G7",
-    "clear G8",
-    "flag H7"
+    "clear G8"
+    
 
 
   ]
